@@ -32,18 +32,13 @@ Ok, what will you need to run this?
 
 -  [Create a Service Account](https://cloud.google.com/iam/docs/creating-managing-service-accounts#creating_a_service_account) (I found it easyer to follow the instructions on the *console* tab);
 
-- Remember to enable the `Provide a new private key` option and select JSON format.
+- Remember to enable the `Provide a new private key` option and select JSON format;
 
-You also need Node.js installed, you can download it [here](https://nodejs.org/en/).
-Almost done, now you have to clone the repository (`git clone https://github.com/v-herzog/SnapSimplex.git`), enter the SnapSimplex folder (`cd SnapSimplex`) and just run:
+- You also need Node.js installed, you can download it [here](https://nodejs.org/en/);
 
-```node
-npm run test
-```
+- Now you have to clone the repository (`git clone https://github.com/v-herzog/SnapSimplex.git`) and enter the SnapSimplex folder (`cd SnapSimplex`);
 
-And it will install the npm packages for you, plus run an example. After that you can jump to **Usage**. If you want to install the packages yourself follow this:
-
-Install the [google cloud vision](https://www.npmjs.com/package/@google-cloud/vision) and the [simplex-solver](https://www.npmjs.com/package/simplex-solver) npm packages:
+- And last, install the [google cloud vision](https://www.npmjs.com/package/@google-cloud/vision) and the [simplex-solver](https://www.npmjs.com/package/simplex-solver) npm packages:
 
 ```node
 npm install --save @google-cloud/vision
