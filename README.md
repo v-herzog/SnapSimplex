@@ -75,4 +75,4 @@ node solve [image-path] --step-by-step
 
 Check it out in action:
 
-![amazing gif](https://github.com/v-herzog/SnapSimplex/images/demo.gif)
+![amazing gif](https://github.com/v-herzog/SnapSimplex/blob/master/images/demo.gif)
