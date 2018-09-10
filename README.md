@@ -20,7 +20,7 @@ We can solve linear optimization throught diferent methods:
 
 -  [Simplex algorith](https://en.wikipedia.org/wiki/Simplex_algorithm), finally with this we can solve any lp as big and complex as one can be.
 
-Now imagine you want to solve several lp's from a book or a slide, basicaly an image, which process will take most of the time? There are several applications that will solve a lp with Simplex (like [Lingo](https://www.lindo.com/index.php/ls-downloads) or [this online calculator](http://simplex.tode.cz/en/)), but typing the problems takes a long time and require atention. So that's why I've spent hours to create this ~~very usefull~~ aplication, and to learn how to use the Google Cloud (mostly this last reason).
+Now imagine you want to solve several lp's from a book or a slide, basicaly an image, which process will take most of the time? There are several applications that will solve a lp with Simplex (like [Lingo](https://www.lindo.com/index.php/ls-downloads) or [this online calculator](http://simplex.tode.cz/en/)), but typing the problems takes a long time and require attention. So that's why I've spent hours to create this ~~very usefull~~ aplication, and to learn how to use the Google Cloud (mostly this last reason).
 
 ## Instalation
 
